@@ -12,7 +12,7 @@ In this project i developed a script to fade the props in the scenary.
 
 You can find the gameplay in the link below.
 
-https://youtu.be/z2LTwdvZNiE
+https://www.youtube.com/watch?v=IOBqyaARrrQ
 
 ## Assets
 This project was made with some of my sprites and free assets.
